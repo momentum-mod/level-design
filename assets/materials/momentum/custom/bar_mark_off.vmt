@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "momentum/custom/bar_mark_off"
+	"$translucent" 1
+	"$decal" 1
+	"$decalscale" 0.25
+}

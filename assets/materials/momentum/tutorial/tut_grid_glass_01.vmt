@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "momentum/tutorial/tut_grid_glass_01"
+	"$envmap" "env_cubemap"
+	"$translucent" 1
+	
+	"$surfaceprop" "glass"
+}

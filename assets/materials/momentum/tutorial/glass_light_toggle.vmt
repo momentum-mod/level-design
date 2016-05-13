@@ -1,0 +1,22 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "momentum/tutorial/glass_light_toggle"
+	"$bumpmap" "momentum/tutorial/glass_light_norm"
+	
+	"$selfillum" 1
+	
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	
+	"$surfaceprop" "glass"
+	
+	"Proxies"
+	{
+		"ToggleTexture"
+		{
+			"toggleTextureVar" "$basetexture"
+			"toggleTextureFrameNumVar" "$frame"
+			"toggleShouldWrap" 1
+		}
+	}
+}

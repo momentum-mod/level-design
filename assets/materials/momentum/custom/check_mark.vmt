@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "momentum/custom/check_mark_toggle"
+	"$translucent" 1
+	"$decal" 1
+	"$decalscale" 0.25
+}

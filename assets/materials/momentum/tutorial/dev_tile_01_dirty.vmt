@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "momentum/tutorial/dev_tile_01_dirty"
+	"$bumpmap" "momentum/tutorial/dev_tile_01_norm"
+	
+	"$surfaceprop" "tile"
+}

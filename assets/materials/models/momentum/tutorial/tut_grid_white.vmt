@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	$baseTexture	 "models/momentum/tutorial/tut_grid_white_dif"
+	$model 	"1"
+	//$surfaceprop	 "wood"
+	//$detail	 "detail/dt_wood1"
+
+}

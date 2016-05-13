@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "momentum/custom/white"
+
+	"$surfaceprop" "glass"
+}

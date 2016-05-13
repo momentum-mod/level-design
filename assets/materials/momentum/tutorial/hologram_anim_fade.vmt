@@ -1,0 +1,40 @@
+"UnlitGeneric"
+{
+	"$basetexture" "momentum/tutorial/hologram_anim_big_fade"
+	"$texture2" "Effects/FilmScan256"
+
+	"$translucent" 1
+	
+	"$alpha_var" 0.0
+	"$noise_alpha" 0.0
+
+    "Proxies"
+    {
+		"AnimatedTexture"
+		{
+			"animatedTextureVar" "$basetexture"
+			"animatedTextureFrameNumVar" "$frame"
+			"animatedTextureFrameRate" "15"
+		}
+		"Sine"
+		{
+			"sineperiod" 5.0
+			"sinemax" 0.5
+			"sinemin" 0.2
+			"timeoffset" 0.0
+			"resultVar" "$alpha_var"
+		}
+		"UniformNoise"
+        {
+            "minVal" 0.5
+            "maxVal" 1.0
+            "resultVar" "$noise_alpha"
+        }
+		"Multiply"
+		{
+			"srcVar1" "$alpha_var"
+			"srcVar2" "$noise_alpha"
+			"resultVar" "$alpha"
+		}
+    }	
+}

@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	$basetexture	"momentum/tutorial/tut_grid_white_dif"
+	//$bumpmap	"momentum/tutorial/"
+	//$normalmapalphaenvmapmask	"1"
+
+	//$envmap 		"momentum/tutorial/env_rimtest"
+	$fresnelreflection	".01"
+	$envmaptint	"[.2 .2 .4]"
+}

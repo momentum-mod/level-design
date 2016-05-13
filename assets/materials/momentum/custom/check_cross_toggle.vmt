@@ -1,0 +1,17 @@
+"UnlitGeneric"
+{
+	"$basetexture" "momentum/custom/check_cross_toggle"
+	"$translucent" 1
+	"$decal" 1
+	"$decalscale" 0.25
+	
+	"Proxies"
+	{
+		"ToggleTexture"
+		{
+			"toggleTextureVar" "$basetexture"
+			"toggleTextureFrameNumVar" "$frame"
+			"toggleShouldWrap" 1
+		}
+	}
+}

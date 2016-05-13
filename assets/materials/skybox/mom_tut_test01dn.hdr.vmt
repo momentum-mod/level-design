@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "skybox/mom_tut_test01dn.hdr"
+	"$nofog" "1"
+	"$ignorez" "1"
+}
