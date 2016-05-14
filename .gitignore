@@ -1,4 +1,3 @@
-map-src/surf_tutorial.bsp
-map-src/surf_tutorial.log
-map-src/surf_tutorial.prt
-map-src/surf_tutorial.vmx
+map-src/*.log
+map-src/*.prt
+map-src/*.vmx
