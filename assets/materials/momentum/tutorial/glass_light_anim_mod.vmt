@@ -1,0 +1,22 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "momentum/tutorial/glass_light_anim"
+	"$bumpmap" "momentum/tutorial/glass_light_norm"
+	
+	"$selfillum" 1
+	
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	
+	"$surfaceprop" "glass"
+	
+	"Proxies"
+	{
+		"MaterialModifyAnimated"
+		{
+			"animatedtexturevar" "$basetexture"
+			"animatedtextureframenumvar" "$frame"
+			"animatedtextureframerate" 15
+		}
+	}
+}
