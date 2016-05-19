@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "momentum/tutorial/dev_tile_03"
+	"$bumpmap" "momentum/tutorial/dev_tile_03_norm"
+	
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[.1 .1 .1]"
+	
+	"$surfaceprop" "tile"
+}
