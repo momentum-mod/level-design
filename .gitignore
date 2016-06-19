@@ -1,3 +1,6 @@
 map-src/*.log
 map-src/*.prt
 map-src/*.vmx
+map-src/surf_tutorial_v1.vmf
+map-src/surf_tutorial_v2.bsp
+map-src/surf_tutorial_v2.vmf
