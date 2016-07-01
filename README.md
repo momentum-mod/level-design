@@ -5,14 +5,14 @@ Mapping Standards
 =================
 This is here to guide people intending to make maps for momentum mod as well as people working on the campaign mode. 
 In this guide
-	* Setting up hammer
-	* Spawn
-	* Triggers
-	* Bhop Standards
-		* stuff
-	* Surf Standards
-		* Ramp Sizes
-	* Common Things
+#* Setting up hammer
+#* Spawn
+#* Triggers
+#* Bhop Standards
+#** stuff
+#* Surf Standards
+#** Ramp Sizes
+#* Common Things
 
 v0.01 - 06/19/16
 
