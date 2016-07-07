@@ -1,0 +1,10 @@
+"unlitgeneric"
+{
+	$model 1 
+	"$basetexture" "surf_lt/glass_cyber_stripes_grey"
+	"$additive" 1
+	"$surfaceprop" "glass"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "surf_lt/glass_cyber_stripes_grey"
+}
+
