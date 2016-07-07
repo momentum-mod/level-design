@@ -46,8 +46,8 @@ To start the time in game, use the trigger_momentum_timer_start brush entity at 
 Style Standards
 ---------------
 
-	1. .rad files
+1. .rad files
 
-	.rad files are used to create lights just above specific textures. In the file is a list of texture path names followed by a light value on the same line (R G B Intensity). You can insert these values into the lights.rad found in the momentum-mod folder, or use a custom.rad file that will house all the custom values. The second option is preferable as it is easier to keep track of the custom light textures.
+.rad files are used to create lights just above specific textures. In the file is a list of texture path names followed by a light value on the same line (R G B Intensity). You can insert these values into the lights.rad found in the momentum-mod folder, or use a custom.rad file that will house all the custom values. The second option is preferable as it is easier to keep track of the custom light textures.
 
-	The down side to this is that you will have to use a custom build profile. To do this, click the "expert" button on the run menu and add "-lights custom.rad" to your lights.exe line. The custom.rad file will have to be in the base folder to work. Alternatively you can use the relative path of the custom.rad file.
+The down side to this is that you will have to use a custom build profile. To do this, click the "expert" button on the run menu and add "-lights custom.rad" to your lights.exe line. The custom.rad file will have to be in the base folder to work. Alternatively you can use the relative path of the custom.rad file.
