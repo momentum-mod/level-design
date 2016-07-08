@@ -1,0 +1,34 @@
+"UnlitGeneric"
+{
+	"$basetexture" "momentum/tutorial/redgrid_fade"
+
+	"$translucent" 1
+	"$additive" 1
+	
+	"$alpha_var" 0.0
+	"$noise_alpha" 0.0
+
+    "Proxies"
+    {
+		"Sine"
+		{
+			"sineperiod" .1
+			"sinemax" 1
+			"sinemin" .8
+			"timeoffset" 0.0
+			"resultVar" "$alpha_var"
+		}
+		"UniformNoise"
+        {
+            "minVal" 0.7
+            "maxVal" 1.0
+            "resultVar" "$noise_alpha"
+        }
+		"Multiply"
+		{
+			"srcVar1" "$alpha_var"
+			"srcVar2" "$noise_alpha"
+			"resultVar" "$alpha"
+		}
+    }	
+}

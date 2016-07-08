@@ -1,0 +1,6 @@
+"unlitgeneric"
+{
+	"$basetexture" "momentum/tutorial/redgrid_02"
+	"$translucent" "1"
+	"$additive" "1"
+}
