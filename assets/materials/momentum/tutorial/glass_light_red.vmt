@@ -1,4 +1,4 @@
-"UnlitGeneric"
+"UnlitGeneric"//"LightmappedGeneric"
 {
 	"$basetexture" "momentum/tutorial/glass_light_red"
 	//"$bumpmap" "momentum/tutorial/glass_light_norm"

@@ -1,4 +1,5 @@
-momentum/tutorial/glass_light_white 242 248 255 200
+momentum/tutorial/glass_light_white_rad 242 248 255 700
 momentum/tutorial/glass_light_red 239 37 37 1000
-devneons/blue_neon 106 164 234 300
-momentum/tutorial/redgrid_01 255 26 26 5
+devneons/blue_neon 106 164 234 600
+momentum/tutorial/redgrid_01_rad 255 26 26 20
+momentum/tutorial/bluegrid_01_rad 100 162 255 20

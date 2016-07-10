@@ -1,0 +1,6 @@
+"unlitgeneric"
+{
+	"$basetexture" "momentum/tutorial/bluegrid_01"
+	"$translucent" "1"
+	"$additive" "1"
+}
