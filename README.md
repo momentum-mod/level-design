@@ -1,5 +1,5 @@
 # level-design
-These are the assets and vmf files related to the tutorial/campaign in Momentum Mod. If you are a source engine level designer, texture artist, or modeler who wants to get involved, contact us via our website: http://momentum-mod.org/contact
+These are the assets and vmf files related to the tutorial/campaign in Momentum Mod. If you are a source engine level designer, texture artist, or modeler who wants to get involved, contact us via our website: [contact](http://momentum-mod.org/contact)
 
 Mapping Standards
 =================
@@ -42,6 +42,13 @@ Triggers
 --------
 
 To start the time in game, use the trigger_momentum_timer_start brush entity at the start of the map. Use trigger_momentum_timer_stage for every stage after the first. Use trigger_momentum_teleport_checkpoint for the death triggers, this will reset the player at the last stage they entered. You can either specify what info_teleport_destination to use or use none and the player will be teleported to the center marker of the stage trigger. There is an option to reset the players speed on teleport, so no clips are necessary.
+
+Surf Standards
+--------------
+
+1. Ramp Standards
+
+Ramps will be at a 5/4 rise over run slope meaning if your ramp is 640 units tall, then it will be 512 units wide. The ramps should contain a base of 64 units so the overall height will be 704 units using the previous example. [Here](https://docs.google.com/spreadsheets/d/1-K8c2F3EVhTpeyzDAoIfdjmWr1s6H8bEtUQy5cfKEJg/edit#gid=0) is a spreadsheet that gives you the height and width of ramps that follow this standard. Using a step angle of 2.5 or 5 degrees is preferable when making curved ramps but not necessary.
 
 Style Standards
 ---------------
