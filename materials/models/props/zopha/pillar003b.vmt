@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props/zopha/pillar003b"
+	"$surfaceprop" "Metal"
+}
