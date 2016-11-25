@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/props/zopha/pillar001a"
-	"$normalmap" "models/props/zopha/pillar001a_normal"
-	"$surfaceprop" "Concrete"
-}
