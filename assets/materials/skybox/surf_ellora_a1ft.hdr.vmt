@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "skybox/surf_ellora_a1ft.hdr"
+	"$nofog" "1"
+	"$ignorez" "1"
+}
+
