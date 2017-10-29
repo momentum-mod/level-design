@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/momentum/World 1/w1_tree_root04d"
+	"$nocull" "1"
+	"$model" "1"
+}
