@@ -1,13 +1,14 @@
-"UnlitGeneric"
+"LightmappedGeneric"
 {
 	"$basetexture" "momentum/tutorial/glass_light_red"
-	//"$bumpmap" "momentum/tutorial/glass_light_norm"
 	
-	//"$selfillum" 1
+	"$bumpmap" "momentum/tutorial/glass_light_norm"
 	
-	//"$envmap" "env_cubemap"
-	//"$normalmapalphaenvmapmask" 1
-	//"$envmapcontrast" 1
+	"$selfillum" 1
+	
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
 	
 	"$surfaceprop" "glass"
 }

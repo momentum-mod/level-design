@@ -1,6 +1,9 @@
 "VertexlitGeneric"
 {
 	"$basetexture" "models/momentum/World 1/w1_rootFill01C"
+	"$translucent" "0"
 	"$nocull" "1"
 	"$model" "1"
+	"$FlashlightNoLambert" "1"
+	"%keywords" "mom"
 }
