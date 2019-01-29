@@ -85,6 +85,6 @@ The second option is preferable as it is easier to keep track of the custom ligh
 The downside to this is that you will have to use a custom build profile. 
 
 To do this:
-* Click the _"Expert"_ button on the "Run Map" Menu and add `-lights custom.rad` to the `$light_exe` line. It should be added before the `$gamedir $path\$file` section. 
+* Click the _"Expert"_ button on the _"Run Map"_ Menu and add `-lights custom.rad` to the `$light_exe` line. It should be added before the `$gamedir $path\$file` section. 
   * The `custom.rad` file will have to be in the base folder to work.
   * Alternatively you can use the relative path of the `custom.rad` file.
