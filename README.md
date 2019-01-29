@@ -8,7 +8,7 @@ The most active place at the moment is the [Momentum Mod Discord](https://discor
 ---
 
 ## Mapping Standards
-This guide exists for those intending to make maps for Momentum Mod, as well as people working on the Campaign Mode.
+This guide exists for those intending to make maps for Momentum Mod, as well as people working on the Campaign Mode.  
 _In this guide:_
 
  * Setting up Hammer
