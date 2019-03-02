@@ -24,7 +24,8 @@ v0.02 - 01/14/19
 ---
 
 ## Setting up Hammer
-Install Source SDK Base 2013 Multiplayer and Momentum Mod first. **Singleplayer does not work, you must install Multiplayer.**
+Install Source SDK Base 2013 Multiplayer and Momentum Mod first. **Singleplayer does not work, you must install Multiplayer.**  
+**Source SDK Base 2013 Multiplayer** ***MUST*** **be installed to the `C:/` Drive, it unfortunately won't work elsewhere!**
 
 * Once installed, navigate to `Source SDK Base 2013 Multiplayer/bin` and open `Hammer.bat`.
 
