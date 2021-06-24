@@ -1,3 +1,11 @@
+> # **Warning!**
+> 
+> This repository has not been actively maintained! In the past 5 years 
+> Momentum Mod has changed dramatically and the information here does not
+> yet reflect the current state of the game. While we do plan to eventually overhaul
+> this document to more openly reflect our current mapping standards for *all* gamemodes, that has not yet been done!
+> Follow the advice below at your own risk.
+
 # Level Design
 These are the assets and `.vmf` files related to the Tutorial/Campaign in ***Momentum Mod.***
 
